@@ -24,15 +24,15 @@ body{
 }
 .site-title{
 	font-family: Arial;
-	font-size: 10px;
+	font-size: 24px;
 	color: white;
 }
 h3{
-	font-size: 10px;
+	font-size: 18px;
 	color: #f7686e;
 }
 span{
-	font-size: 10px;
+	font-size: 24px;
 	font-style: italic;
 	padding: 45px 0 0 25px;
 }
@@ -43,7 +43,7 @@ span{
 .main-nav a{
 	color: #1a577f;
 	text-decoration: none;
-	font-size: 8px;
+	font-size: 22px;
 }
 .main-nav li{
 	list-style: none;
@@ -58,7 +58,7 @@ span{
 	width: 100%;
 }
 .main-nav ul a{
-	padding: 10px 21.3px;
+	padding: 10px 24px;
 	display: flex;
 }
 .main-nav ul a:hover, .main-nav ul a:focus{
@@ -76,7 +76,7 @@ span{
 }
 .columns .item{
 	padding: 25px;
-	max-width: 47%;
+	max-width: 46%;
 	background: #b1dbf0;
 	color: #1a577f;
 	border-bottom: 5px solid #f7ee1a;
@@ -87,7 +87,7 @@ span{
 }
 .columns .item .item-title{
 	color: #011d23;
-	font-size: 10px;
+	font-size: 18px;
 	margin: 0 0 5px 0;
 	font-family: arial;
 }
@@ -106,10 +106,10 @@ footer{
 	color: white;
 	padding: 15px;
 	text-align: center;
-	font-size: 10px;
+	font-size: 16px;
 }
 p{
-	font-size: 8px;
+	font-size: 16px;
 }
 
 
